@@ -1,3 +1,9 @@
+#home {
+  background-color: #6D727A;
+  color: #E3E0DC;
+  text-align: center;
+}
+
 body {
   background-color: #F2B9B3;
 }
@@ -27,6 +33,12 @@ body {
   font-weight: bold;
   font-size: 18px;
   font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.home-links {
+  color: #CFCCE8;
+  font-size: 18px;
+  text-align: center;
 }
 
 .images {
