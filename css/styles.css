@@ -61,3 +61,19 @@ body {
   -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: #FF4F99;
 }
+
+/* Lecture */
+
+.left {
+  float: left;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+
+.right {
+  float: right;
+}
+
+#boring {
+  text-align: center;
+}
