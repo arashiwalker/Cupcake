@@ -1,0 +1,51 @@
+body {
+  background-color: #F2B9B3;
+}
+
+#shop {
+  display: flex;
+  margin: 0 auto;
+  padding-bottom: 15px;
+}
+.fancy {
+  font-size: 28px;
+  color: #FFA2C0;
+  font-style: italic;
+}
+
+#header {
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  font-size: 72px;
+}
+
+.panel {
+  background-color: #F8DACF;
+  width: 150px;
+  height: 250px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.images {
+  width: 250px;
+  height: 250px;
+  display: flex;
+  align-items: center;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+}
+
+#best {
+  font-size: 28px;
+  color: #F2B9B3;
+  font-style: italic;
+  font-weight: bold;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #FF4F99;
+}
