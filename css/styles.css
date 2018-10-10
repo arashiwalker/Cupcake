@@ -25,6 +25,7 @@ body {
 
 .box {
   display: flex;
+  margin: 0 auto;
   align-items: center;
 }
 
@@ -73,9 +74,13 @@ body {
 }
 
 .right {
-  float: right;
+ float: right;
 }
 
 #boring {
   text-align: center;
+}
+
+.p1 {
+  font-weight: bolder;
 }
