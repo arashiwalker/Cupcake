@@ -1,44 +1,19 @@
+/* Index */
+.home-links {
+  color: #CFCCE8;
+  font-size: 18px;
+  text-align: center;
+}
+
 #home {
   background-color: #6D727A;
   color: #E3E0DC;
   text-align: center;
 }
 
+/* Cupcake */
 body {
   background-color: #F2B9B3;
-}
-
-#shop {
-  display: flex;
-  margin: 0 auto;
-  padding-bottom: 15px;
-}
-.fancy {
-  font-size: 28px;
-  color: #FFA2C0;
-  font-style: italic;
-}
-
-#header {
-  text-align: center;
-  font-family: 'Lobster', cursive;
-  font-size: 72px;
-}
-
-.panel {
-  background-color: #F8DACF;
-  width: 150px;
-  height: 250px;
-  text-align: center;
-  font-weight: bold;
-  font-size: 18px;
-  font-family: 'Open Sans Condensed', sans-serif;
-}
-
-.home-links {
-  color: #CFCCE8;
-  font-size: 18px;
-  text-align: center;
 }
 
 .images {
@@ -53,6 +28,34 @@ body {
   align-items: center;
 }
 
+.panel {
+  background-color: #F8DACF;
+  width: 150px;
+  height: 250px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.fancy {
+  font-size: 28px;
+  color: #FFA2C0;
+  font-style: italic;
+}
+
+#shop {
+  display: flex;
+  margin: 0 auto;
+  padding-bottom: 15px;
+}
+
+#header {
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  font-size: 72px;
+}
+
 #best {
   font-size: 28px;
   color: #F2B9B3;
@@ -63,7 +66,6 @@ body {
 }
 
 /* Lecture */
-
 .left {
   float: left;
   padding-right: 5px;
