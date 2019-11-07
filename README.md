@@ -1,13 +1,12 @@
 # _Epicodus / Arashi Walker_
 
-#### _All the News That's Fit to Scrape, 10/26/2019_
+#### _All the News That's Fit to Scrape, 10/10/2018_
 
 #### By _Arashi Walker_
 
 ## Overview
 
-
-* In this assignment, you'll create a web app that lets users view and leave comments on the latest news. But you're not going to actually write any articles; instead, you'll flex your mongojs and Cheerio muscles to scrape news from another site.
+* Messing with HTML and javascript to make a simple cupcake store website.
 
 ## functions/features
 
