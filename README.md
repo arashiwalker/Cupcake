@@ -1,6 +1,6 @@
 # _Epicodus / Arashi Walker_
 
-#### _All the News That's Fit to Scrape, 10/10/2018_
+#### _Cupcakes, 10/10/2018_
 
 #### By _Arashi Walker_
 
